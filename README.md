@@ -136,27 +136,12 @@ I am especially interested in:
 
 ---
 
-## My workflow
-
-```mermaid
-flowchart LR
-    A[Understand the problem] --> B[Prepare data]
-    B --> C[Engineer features]
-    C --> D[Train model]
-    D --> E[Evaluate metrics]
-    E --> F[Deploy API or pipeline]
-    F --> G[Monitor]
-    G --> H[Improve]
-```
-
----
-
 ## GitHub analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devchuz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchuz&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devchuz&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devchuz&theme=github_dark" />
 
 <br />
 <br />
